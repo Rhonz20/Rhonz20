@@ -5,7 +5,7 @@ Im **Mhark Cachola** also known as **Ron**, Im also **Want to become a Web Devel
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Mhark+Cachola+24+years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
 
 ### How to reach me: 
-<img src="https://img.shields.io/badge/-carlandrewcastanas55%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/mhark/">   <img src="https://img.shields.io/badge/@mhark-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/mhark/"><img src="https://img.shields.io/badge/mhark-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.mhark.netlify.app/"><img src="https://img.shields.io/badge/mhark.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a  href="https://www.instagram.com/mhark/">   <img src="https://img.shields.io/badge/@mhark-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/mhark/"><img src="https://img.shields.io/badge/mhark-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.mhark.netlify.app/"><img src="https://img.shields.io/badge/mhark.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
